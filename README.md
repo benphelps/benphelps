@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Hey, I'm Ben, currently working with Next.js as a full-stack software engineer.<br><br>My current hobby project is [Homepage](https://github.com/benphelps/homepage), a highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.</p>
+<p align="left">Hey, I'm Ben, currently working with Next.js as a full-stack software engineer.<br><br>My current hobby project is <a href="https://github.com/benphelps/homepage">Homepage</a>, a highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.</p>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="left">Tooling</h2>
+<h2 align="left">Tooling...</h2>
 
 ###
 
@@ -64,7 +64,7 @@
 
 ###
 
-<h2 align="left">Recreationally</h2>
+<h2 align="left">Recreationally...</h2>
 
 ###
 
@@ -83,23 +83,15 @@
 
 ###
 
-<h2 align="left">Reach Me</h2>
+<h2 align="left">Reach Me...</h2>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/phelpsben/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="discord:/phelps#0001" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="mailto:ben@phelps.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://paypal.me/phelpsben" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
-  </a>
+<a href="mailto:ben+gh@phelps.io" title="Email Me"><img src="https://img.shields.io/badge/Email - ben+gh@phelps.io-blue?logo=gmail&logoColor=white" alt="ben+gh@phelps.io"></a>
+<a href="https://www.linkedin.com/in/phelpsben/" title="My LinkedIn Profile"><img src="https://img.shields.io/badge/Linkedin - phelpsben-blue?logo=linkedin&logoColor=white" alt="Linkedin - phelpsben"></a>
+<img src="https://img.shields.io/badge/Discord - phelps%230001-blue?logo=discord&logoColor=white" alt="ben+gh@phelps.io">
+<a href="https://paypal.me/phelpsben" title="Send me money"><img src="https://img.shields.io/badge/PayPal - paypal@phelps.io-blue?logo=paypal&logoColor=white" alt="Linkedin - phelpsben"></a>
 </div>
 
 ###
