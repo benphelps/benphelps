@@ -92,7 +92,7 @@
 <div align="left">
 <a href="mailto:ben+gh@phelps.io" title="Email Me"><img src="https://img.shields.io/badge/Email - ben+gh@phelps.io-blue?logo=gmail&logoColor=white" alt="ben+gh@phelps.io"></a>
 <a href="https://www.linkedin.com/in/phelpsben/" title="My LinkedIn Profile"><img src="https://img.shields.io/badge/Linkedin - phelpsben-blue?logo=linkedin&logoColor=white" alt="Linkedin - phelpsben"></a>
-<img src="https://img.shields.io/badge/Discord - phelps%230001-blue?logo=discord&logoColor=white" alt="ben+gh@phelps.io">
+<img src="https://img.shields.io/badge/Discord - phelps-blue?logo=discord&logoColor=white" alt="phelps">
 <a href="https://paypal.me/phelpsben" title="Send me money"><img src="https://img.shields.io/badge/PayPal - paypal@phelps.io-blue?logo=paypal&logoColor=white" alt="Linkedin - phelpsben"></a>
 </div>
 
